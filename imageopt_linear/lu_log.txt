@@ -1,0 +1,2 @@
+success_cnt_controlPoint:307 233 181 165 137 115 97 85 56 59
+success_cnt_vertex:22 30 27 23 16 14 14 10 5 6
